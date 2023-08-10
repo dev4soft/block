@@ -1,0 +1,9 @@
+<?php
+ 
+return [
+        'srv'  => 'localhost',
+        'db'   => 'dbname',
+        'user' => 'username',
+        'pass' => 'password',
+];
+
